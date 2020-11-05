@@ -8,12 +8,9 @@
     "server": "cd server && npm start",
     "start": "concurrently \"npm run client\" \"npm run server\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Josuem65/26-todos-fullstack.git"
-  },
+  "repository": "git+https://github.com/Josuem65/26-todos-fullstack.git",
   "keywords": [],
-  "author": "",
+  "author": "Josue Martinez <josue.martinez65@yahoo.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Josuem65/26-todos-fullstack/issues"
